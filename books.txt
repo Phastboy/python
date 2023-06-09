@@ -1,0 +1,13 @@
+data structures and algorithms, shi-kuo chang, 360, non-fiction
+clean code, robert c martins, 462, computers
+the python book, rob mastrodomenico, 407, non-fiction
+python crash course, eric matthes, 564, programming
+Head First C, David Griffiths, 632, programming
+The road to ruin, James Rickards, 231, Political Science
+Inc and grow rich, Diane Kennedy and Garret Sutton, 243, Self-help book
+How to win friends and influence people, Dale Carnegie, 291, Self-help book
+Currency Wars, James Rickards, 288, Economic antisemitism
+Rich Dad Poor Dad, Robert Kiyosaki, 336, Non-fiction
+Zero to one, Peter Thiel and Blake Masters, 224, Social science
+Why you act the way you do, Tim Lahaye, 279, Self-help book
+How successful people think, John C. Maxiwell, 98, Self-help book
